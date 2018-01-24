@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-
 import random
 
 def get_wallie_action():
